@@ -1,0 +1,1379 @@
+,name
+0,NQ US Mid Cap Value
+1,NQ US Mid Cap Growth
+2,NQ US Mid Cap Telecommunications Equipment
+3,NQ US Mid Cap Semiconductors
+4,NQ US Mid Cap Computer Hardware
+5,NQ US Mid Cap Technology Hardware & Equipment
+6,NQ US Mid Cap Technology
+7,NQ US Mid Cap Software
+8,NQ US Mid Cap Software & Computer Services
+9,NQ US Mid Cap Investment Services
+10,NQ US Mid Cap Asset Managers
+11,NQ US Small Cap Oil & Gas
+12,NQ US Mid Cap Financial Service
+13,NQ US Mid Cap Financial Services Sector
+14,NQ US Mid Cap Mortgage REITs
+15,NQ US Small Cap Oil & Gas Producers
+16,NQ US Small Cap Forestry & Paper
+17,NQ US Small Cap Oil Equipment & Services
+18,NQ US Small Cap General Mining
+19,NQ US Small Cap Coal
+20,NQ US Mid Cap Specialty REITs
+21,NQ US Small Cap Mining
+22,NQ US Small Cap Iron & Steel
+23,NQ US Small Cap Nonferrous Metals
+24,NQ US Small Cap Industrial Metals & Mining
+25,NQ US Small Cap Paper
+26,NQ US Small Cap Basic Resources
+27,NQ US Small Cap Specialty Chemicals
+28,NQ US Small Cap Commodity Chemicals
+29,NQ US Small Cap Chemicals
+30,NQ US Small Cap Basic Materials
+31,NQ US Small Cap Renewable Energy Equipment
+32,NQ US Small Cap Alternative Energy
+33,NQ US Small Cap Exploration & Production
+34,NQ US Mid Cap Residential REITs
+35,NQ US Mid Cap Specialty Retailers
+36,NQ US Mid Cap Industrial & Office REITs
+37,NQ US Mid Cap Broadcasting & Entertainment
+38,NQ US Mid Cap Media
+39,NQ US Mid Cap Specialized Consumer Services
+40,NQ US Mid Cap Apparel Retailers
+41,NQ US Mid Cap General Retailers
+42,NQ US Mid Cap Food Retailers & Wholesalers
+43,NQ US Mid Cap Food & Drug Retailers
+44,NQ US Mid Cap Retail
+45,NQ US Mid Cap Consumer Services
+46,NQ US Mid Cap Pharmaceuticals
+47,NQ US Mid Cap Biotechnology
+48,NQ US Mid Cap Pharmaceuticals & Biotechnology
+49,NQ US Mid Cap Medical Supplies
+50,NQ US Small Cap Gold Mining
+51,NQ US Mid Cap Medical Equipment
+52,NQ US Mid Cap Publishing
+53,NQ US Mid Cap Retail REITs
+54,NQ US Mid Cap Travel & Leisure
+55,NQ US Mid Cap Restaurants & Bars
+56,NQ US Mid Cap Real Estate Investment Trusts
+57,NQ US Mid Cap Real Estate Investment & Services
+58,NQ US Mid Cap Real Estate
+59,NQ US Mid Cap Life Insurance
+60,NQ US Mid Cap Reinsurance
+61,NQ US Mid Cap Property & Casualty Insurance
+62,NQ US Mid Cap Nonlife Insurance
+63,NQ US Mid Cap Insurance
+64,NQ US Mid Cap Banks
+65,NQ US Mid Cap Financials
+66,"NQ US Mid Cap Gas, Water & Multiutilities"
+67,NQ US Mid Cap Conventional Electricity
+68,NQ US Mid Cap Electricity
+69,NQ US Mid Cap Utilities
+70,NQ US Mid Cap Telecom
+71,NQ US Mid Cap Recreational Services
+72,NQ US Small Cap Industrials
+73,NQ US Small Cap Pharmaceuticals
+74,NQ US Small Cap Building Materials & Fixtures
+75,NQ US Small Cap Food Retailers & Wholesalers
+76,NQ US Small Cap Food & Drug Retailers
+77,NQ US Small Cap Retail
+78,NQ US Small Cap Consumer Services
+79,NQ US Small Cap Biotechnology
+80,NQ US Small Cap Pharmaceuticals & Biotechnology
+81,NQ US Small Cap General Retailers
+82,NQ US Small Cap Medical Supplies
+83,NQ US Small Cap Health Care Providers
+84,NQ US Small Cap Health Care Equipment & Services
+85,NQ US Small Cap Health Care
+86,NQ US Small Cap Tobacco
+87,NQ US Small Cap Personal Products
+88,NQ US Small Cap Footwear
+89,NQ US Small Cap Medical Equipment
+90,NQ US Small Cap Apparel Retailers
+91,NQ US Small Cap Broadline Retailers
+92,NQ US Small Cap Home Improvement Retailers
+93,NQ US Mid Cap Health Care Providers
+94,NQ US Sml Cap Telecommunicati
+95,NQ US Small Cap Travel & Tourism
+96,NQ US Small Cap Restaurants & Bars
+97,NQ US Small Cap Recreational Services
+98,NQ US Small Cap Hotels
+99,NQ US Small Cap Gambling
+100,NQ US Small Cap Airlines
+101,NQ US Sml Cap Travel & Leisure
+102,NQ US Small Cap Publishing
+103,NQ US Small Cap Media Agencies
+104,NQ US Small Cap Broadcasting & Entertainment
+105,NQ US Small Cap Media
+106,NQ US Small Cap Specialty Retailers
+107,NQ US Small Cap Specialized Consumer Services
+108,NQ US Small Cap Clothing & Accessories
+109,NQ US Small Cap Personal Goods
+110,NQ US Small Cap Toys
+111,NQ US Small Cap Recreational Products
+112,NQ US Small Cap Trucking
+113,NQ US Small Cap Transportation Services
+114,NQ US Small Cap Industrial Transportation
+115,NQ US Small Cap Industrial Machinery
+116,NQ US Small Cap Commercial Vehicles & Trucks
+117,NQ US Small Cap Industrial Engineering
+118,NQ US Small Cap Electronic Equipment
+119,NQ US Small Cap Electrical Components & Equipment
+120,NQ US Small Cap Electronic & Electrical Equipment
+121,NQ US Small Cap Containers & Packaging
+122,NQ US Small Cap General Industrials
+123,NQ US Small Cap Defense
+124,NQ US Small Cap Aerospace
+125,NQ US Small Cap Aerospace & Defense
+126,NQ US Small Cap Industrial G&S
+127,NQ US Small Cap Support Services
+128,NQ US Sml Cap Construct & Mtrl
+129,NQ US Small Cap Business Support Services
+130,NQ US Small Cap Financial Administration
+131,NQ US Small Cap Consumer Electronics
+132,NQ US Small Cap Leisure Goods
+133,NQ US Small Cap Furnishings
+134,NQ US Small Cap Nondurable Household Products
+135,NQ US Small Cap Durable Household Products
+136,NQ US Small Cap Personal & Household Goods
+137,NQ US Small Cap Food Products
+138,NQ US Small Cap Food Producers
+139,NQ US Small Cap Beverages
+140,NQ US Small Cap Food & Beverage
+141,NQ US Small Cap Auto Parts
+142,NQ US Small Cap Automobiles & Parts
+143,NQ US Small Cap Consumer Goods
+144,NQ US Small Cap Waste & Disposal Services
+145,NQ US Small Cap Industrial Suppliers
+146,NQ US Small Cap Business Training & Employment Age
+147,NQ US Mid Cap Health Care Equipment & Services
+148,NQ US Large Cap Industrial Machinery
+149,NQ US Mid Cap Clothing and Accessories
+150,NQ US Large Cap Consumer Goods
+151,NQ US Large Cap Financial Administration
+152,NQ US Large Cap Business Support Services
+153,NQ US Large Cap Support Services
+154,NQ US Large Cap Industrial Transportation
+155,NQ US Small Cap Fixed Line Telecommunications
+156,NQ US Large Cap Automobiles & Parts
+157,NQ US Large Cap Commercial Vehicles & Trucks
+158,NQ US Large Cap Electronic Equipment
+159,NQ US Large Cap Electronic & Electrical Equipment
+160,NQ US Large Cap Diversified Industrials
+161,NQ US Large Cap General Industrials
+162,NQ US Large Cap Defense
+163,NQ US Large Cap Aerospace
+164,NQ US Large Cap Industrial Engineering
+165,NQ US Large Cap Food & Beverage
+166,NQ US Large Cap Beverages
+167,NQ US Large Cap Food Producers
+168,NQ US Large Cap Drug Retailers
+169,NQ US Large Cap Food & Drug Retailers
+170,NQ US Large Cap Retail
+171,NQ US Large Cap Consumer Services
+172,NQ US Large Cap Pharmaceuticals
+173,NQ US Large Cap Biotechnology
+174,NQ US Large Cap Pharmaceuticals & Biotechnology
+175,NQ US Large Cap Medical Supplies
+176,NQ US Large Cap Medical Equipment
+177,NQ US Large Cap Health Care Providers
+178,NQ US Large Cap Health Care Equipment & Services
+179,NQ US Large Cap Health Care
+180,NQ US Large Cap Personal Goods
+181,NQ US Large Cap Personal & Household Goods
+182,NQ US Large Cap Food Products
+183,NQ US Large Cap Aerospace & Defense
+184,NQ US Large Cap Industrial G&S
+185,NQ US Large Cap Industrials
+186,NQ US Large Cap Industrial Metals & Mining
+187,NQ US Benchmark Mortgage Finance
+188,NQ US Benchmark Investment Services
+189,NQ US Benchmark Specialty Finance
+190,NQ US Benchmark Consumer Finance
+191,NQ US Benchmark Asset Managers
+192,NQ US Benchmark Financial Services Sector
+193,NQ US Benchmark Hotel & Lodging REITs
+194,NQ US Benchmark Mortgage REITs
+195,NQ US Benchmark Specialty REITs
+196,NQ US Benchmark Diversified REITs
+197,NQ US Benchmark Residential REITs
+198,NQ US Benchmark Retail REITs
+199,NQ US Benchmark Industrial & Office REITs
+200,NQ US Benchmark Real Estate Investment Trusts
+201,NQ US Benchmark Real Estate Services
+202,NQ US Benchmark Software & Computer Services
+203,NQ US Large Cap General Retailers
+204,NQ US Benchmark Computer Services
+205,NQ US Benchmark Software
+206,NQ US Large Cap Basic Resources
+207,NQ US Large Cap Specialty Chemicals
+208,NQ US Large Cap Commodity Chemicals
+209,NQ US Large Cap Chemicals
+210,NQ US Large Cap Basic Materials
+211,NQ US Large Cap Oil Equipment & Services
+212,NQ US Large Cap Integrated Oil & Gas
+213,NQ US Large Cap Exploration & Production
+214,NQ US Large Cap Oil & Gas Producers
+215,NQ US Large Cap Oil & Gas
+216,NQ Chaikin Power US Small Cap
+217,NQ US Benchmark Telecommunications Equipment
+218,NQ US Benchmark Semiconductors
+219,NQ US Benchmark Computer Hardware
+220,NQ US Benchmark Technology Hardware & Equipment
+221,NQ US Benchmark Internet
+222,NQ US Mid Cap Health Care
+223,NQ US Large Cap Apparel Retailers
+224,NQ US Large Cap Specialty Retailers
+225,NQ US Mid Cap Aerospace
+226,NQ US Mid Cap Industrial G&S
+227,NQ US Mid Cap Building Materials & Fixtures
+228,NQ US Mid Cap Construct & Mater
+229,NQ US Mid Cap Industrials
+230,NQ US Mid Cap Iron and Steel
+231,NQ US Mid Cap General Industrials
+232,NQ US Mid Cap Basic Resources
+233,NQ US Mid Cap Commodity Chemicals
+234,NQ US Mid Cap Chemicals
+235,NQ US Mid Cap Basic Materials
+236,NQ US Mid Cap Oil Equipment & Services
+237,NQ US Mid Cap Exploration & Production
+238,NQ US Mid Cap Oil & Gas Producers
+239,NQ US Mid Cap Specialty Chemicals
+240,NQ US Mid Cap Containers & Packaging
+241,NQ US Mid Cap Electronic & Electrical Equipment
+242,NQ US Mid Cap Electrical Components & Equipment
+243,NQ US Mid Cap Leisure Goods
+244,NQ US Mid Cap Personal & Household Goods
+245,NQ US Mid Cap Food Products
+246,NQ US Mid Cap Food Producers
+247,NQ US Mid Cap Food & Beverage
+248,NQ US Mid Cap Automobiles & Parts
+249,NQ US Mid Cap Consumer Goods
+250,NQ US Mid Cap Financial Administration
+251,NQ US Mid Cap Business Support Services
+252,NQ US Mid Cap Support Services
+253,NQ US Md Cap Ind Transportation
+254,NQ US Mid Cap Industrial Machinery
+255,NQ US Mid Cap Commercial Vehicles & Trucks
+256,NQ US Mid Cap Industrial Engineering
+257,NQ US Mid Cap Electronic Equipment
+258,NQ US Mid Cap Oil & Gas
+259,NQ US Large Cap Value
+260,NQ US Large Cap Growth
+261,NQ US Large Cap Telecommunications Equipment
+262,NQ US Large Cap Nonlife Insurance
+263,NQ US Large Cap Insurance
+264,NQ US Large Cap Banks
+265,NQ US Large Cap Financials
+266,NQ US Large Cap Multiutilities
+267,"NQ US Large Cap Gas, Water & Multiutilities"
+268,NQ US Large Cap Conventional Electricity
+269,NQ US Large Cap Electricity
+270,NQ US Large Cap Utilities
+271,NQ US Large Cap Fixed Line Telecommunications
+272,NQ US Large Cap Telecommunications
+273,NQ US Large Cap Restaurants & Bars
+274,NQ US Large Cap Travel& Leisure
+275,NQ US Large Cap Broadcasting & Entertainment
+276,NQ US Large Cap Media
+277,NQ US Large Cap Property & Casualty Insurance
+278,NQ US Large Cap Broadline Retailers
+279,NQ US Large Cap Life Insurance
+280,NQ US Large Cap Real Estate Investment Trusts
+281,NQ US Large Cap Semiconductors
+282,NQ US Large Cap Computer Hardware
+283,NQ US Large Cap Technology Hardware & Equipment
+284,NQ US Large Cap Software
+285,NQ US Large Cap Computer Services
+286,NQ US Large Cap Software & Computer Services
+287,NQ US Large Cap Technology
+288,NQ US Large Cap Investment Services
+289,NQ US Large Cap Consumer Finance
+290,NQ US Large Cap Asset Managers
+291,NQ US Large Cap Financial Services Sector
+292,NQ US Lr Cap Financial Services
+293,NQ US Large Cap Specialty REITs
+294,NQ US Large Cap Retail REITs
+295,NQ US Large Cap Industrial and Office REITs
+296,NQ US Large Cap Real Estate
+297,NQ US Small Cap Mobile Telecommunications
+298,Low Volatility Short Only TR
+299,NQ US Small Cap Electricity
+300,DJ Asset Managers
+301,DJ Auto Parts Makers
+302,DJ Automobiles
+303,DJ Automobiles & Parts
+304,DJ Banks
+305,DJ Basic Resources
+306,DJ Apparel Retailers
+307,DJ Beverages
+308,DJ Brewers
+309,DJ Broadcasting & Entertainment
+310,DJ Broadline Retailers
+311,DJ Building Materials & Fixtures
+312,DJ Business Support Services
+313,DJ Business Training & Employment Agencies
+314,DJ Biotechnology
+315,DJ Aluminum
+316,DJ Airlines
+317,DJ Aerospace & Defense
+318,ARCA Mini-Natural Gas
+319,ARCA Mini-Oil
+320,ARCA Mini-Pharmaceutical
+321,ARCA Mini-Securities
+322,ARCA Natural Gas
+323,ARCA Networking
+324,ARCA North American Telecommunications
+325,ARCA Oil
+326,ARCA Pharmaceutical
+327,ARCA Securities Broker
+328,ARCA Steel
+329,ARCA Technology 100
+330,ARCA Telecom
+331,ARCA Tobacco
+332,DJ Aerospace
+333,DJ Chemicals
+334,DJ Clothing & Accessories
+335,DJ Coal
+336,DJ Commercial Vehicles & Trucks
+337,DJ Equity All REIT
+338,DJ Exploration & Production
+339,DJ Financial Administration
+340,DJ Financial Services
+341,DJ Financial Services
+342,DJ Financial Services Composite
+343,DJ Food & Beverage Makers
+344,DJ Food & Drug Retailers
+345,DJ Food Producers
+346,DJ Food Product Makers
+347,DJ Food Retail & Wholesale
+348,DJ Footwear
+349,DJ Forestry & Paper
+350,DJ Full Line Insurance
+351,DJ Furnishings
+352,DJ Electronic Equipment
+353,ARCA Mini-Biotechnology
+354,DJ Electronic & Electrical Equipment
+355,DJ Electrical Components & Equipment
+356,DJ Commodity Chemicals
+357,DJ Composite
+358,DJ Computer Hardware
+359,DJ Computer Services
+360,DJ Construction & Materials
+361,DJ Consumer Finance
+362,DJ Containers & Packaging
+363,DJ Conventional Electricity
+364,DJ Defense
+365,DJ Delivery Services
+366,DJ Distillers & Vintners
+367,DJ Diversified Industrials
+368,DJ Diversified REITs
+369,DJ Drug Retailers
+370,DJ Durable Household Products
+371,DJ Electricity
+372,DJ Gambling
+373,ARCA Junior Gold BUGS
+374,ARCA Gold Miners
+375,NQ Industrial
+376,NQ Insurance
+377,NQ Internet
+378,NQ Other Finance
+379,NQ Telecommunications
+380,NQ Transportation
+381,NASDAQ Health Care
+382,NYSE Energy
+383,NYSE Healthcare
+384,NYSE TMT
+385,PHLX Semiconductor
+386,Russell 1000 Financial Services
+387,S&P 500 Consumer Discretionary
+388,S&P 500 Consumer Staples
+389,NYSE Financials
+390,NQ Financial 100
+391,NQ Computer
+392,NQ Biotechnology
+393,Dow 30
+394,Nasdaq 100
+395,Nasdaq
+396,S&P 500
+397,DJ Basic Materials
+398,DJ Consumer Goods
+399,DJ Consumer Services
+400,DJ Financials
+401,DJ Health Care
+402,DJ Industrials
+403,DJ Oil&Gas
+404,DJ Technology
+405,DJ Telecom
+406,DJ Utilities
+407,NQ Bank
+408,S&P 500 Energy
+409,S&P 500 Financials
+410,S&P 500 Health Care
+411,S&P 500 Industrials
+412,Braclays Capital Commodities
+413,Canadian Crude Excess Return
+414,Canadian Crude Reference Price
+415,ISE Natural Gas TR
+416,ARCA Airline
+417,ARCA Biotechnology
+418,ARCA Computer Hardware
+419,ARCA Computer Technology
+420,ARCA Defense
+421,ARCA Disk Drive
+422,ARCA Electric Power & Natural Gas Infrastructure
+423,ARCA Environmental Svcs
+424,ARCA Equal Weighted Pharmaceutical
+425,ARCA Global Airline
+426,ARCA Gold BUGS
+427,Bloomberg Corn Subindex TR
+428,ARCA Institutional
+429,Bloomberg Brent Crude Subindex TR
+430,10-year US Treasury VIX
+431,S&P 500 Information Technology
+432,S&P 500 Materials
+433,S&P 500 Real Estate
+434,S&P 500 Telecom Services
+435,S&P 500 Utilities
+436,S&P 500 VIX
+437,DJ Composite
+438,DJ Transportation
+439,DJ Utility
+440,NYSE AMEX Composite
+441,NYSE Composite
+442,OTCM ADR
+443,OTCM QX ADR 30
+444,S&P 100
+445,SmallCap 2000
+446,Barclays WTI Crude Oil Pure Beta TR
+447,DJ Gas Distribution
+448,DJ Gas Water & Multiutilities
+449,DJ General Industrials
+450,FTSE USA Large Cap Super Liquid Net Of Tax
+451,FTSE RAFI US Low Volatility
+452,FTSE RAFI US 3000 QSR
+453,FTSE RAFI US 1500 Mid Small QSR
+454,FTSE RAFI US 1000 QSR
+455,FTSE EPRA/NAREIT US Dividend+
+456,FTSE USA Super Liquid
+457,WisdomTree US Equity Income iNAV
+458,NQ 100 Settlement
+459,NQ Composite Settlement
+460,NQ Premarket
+461,NQ After Market
+462,NQ US Small Cap Value
+463,NQ US Small Cap Growth
+464,WisdomTree US SmallCap Dividend iNAV
+465,FTSE Renaissance US IPO
+466,FTSE Renaissance US IPO Investable
+467,FTSE USA Large Cap Super Liquid 2x Daily Leveraged
+468,Stoxx USA 50  Daily EUR
+469,Stoxx USA 50 Daily EUR
+470,Stoxx USA 50 Daily 4 EUR
+471,Federal Funds Composite Interest Rate
+472,MSCI US Small Gross
+473,MSCI USA Quality GR
+474,FTSE RAFI US 1000 Hedged In CAD
+475,DJ U.S. Select REIT TR
+476,DJ U.S. Select Dividend TR
+477,DJ U.S. Select Dividend Net TR
+478,FTSE USA Large Cap Super Liquid 3x Daily Leveraged
+479,FTSE USA Large Cap Super Liquid 3x Daily Short
+480,FTSE USA Large Cap Super Liquid 2x Daily Short
+481,FTSE USA Large Cap Super Liquid Daily Short
+482,FTSE USA Large Cap Super Liquid 4x Daily Leveraged
+483,NQ US Small Cap Telecommunications Equipment
+484,NQ US Small Cap Semiconductors
+485,NQ US Small Cap Computer Hardware
+486,NQ US Small Cap Technology Hardware & Equipment
+487,NQ US Small Cap Real Estate Investment Trusts
+488,NQ US Small Cap Real Estate Services
+489,NQ US Small Cap Real Estate Holding & Development
+490,NQ US Small Cap Real Estate Investment & Services
+491,NQ US Small Cap Real Estate
+492,NQ US Small Cap Life Insurance
+493,NQ US Small Cap Reinsurance
+494,NQ US Small Cap Property & Casualty Insurance
+495,NQ US Small Cap Nonlife Insurance
+496,NQ US Small Cap Insurance
+497,NQ US Small Cap Banks
+498,NQ US Small Cap Financials
+499,NQ US Small Cap Water
+500,"NQ US Small Cap Gas, Water & Multiutilities"
+501,NQ US Small Cap Conventional Electricity
+502,NQ US Small Cap Industrial & Office REITs
+503,Stoxx USA 50 Risk 10% RV USD
+504,NQ US Small Cap Retail REITs
+505,NQ US Small Cap Diversified REITs
+506,NQ US Small Cap Software
+507,NQ US Small Cap Internet
+508,NQ US Small Cap Computer Services
+509,NQ US Small Cap Software & Computer Services
+510,NQ US Small Cap Technology
+511,NQ US Small Cap Mortgage Finance
+512,NQ US Small Cap Investment Services
+513,NQ US Small Cap Specialty Finance
+514,NQ US Small Cap Consumer Finance
+515,NQ US Small Cap Asset Managers
+516,NQ US Small Cap Financial Services Sector
+517,NQ US Small Cap Financial Services
+518,NQ US Small Cap Hotel & Lodging REITs
+519,NQ US Small Cap Mortgage REITs
+520,NQ US Small Cap Specialty REITs
+521,NQ US Small Cap Residential REITs
+522,Stoxx USA 50 Risk 10% RV EUR
+523,Stoxx USA 50 Risk 15% RV USD
+524,Stoxx USA 50 Risk 15% RV EUR
+525,Merrill Lynch MOVE Index 1 Month
+526,FTSE USA Core Infrastructure Capped Net Tax
+527,FTSE US Risk Premium Dividend Yield Short only TR
+528,FTSE US Risk Premium Dividend Yield Long only TR
+529,Forward Earnings Yield Short only TR
+530,Dividend Yield Long only TR
+531,Seasonality Short only TR
+532,FTSE US Risk Premium Dividend Yield Long only Pric
+533,Cash flow Yield Long only Net Tax
+534,Low Volatility Long Only TR
+535,Cash flow Yield short only TR
+536,FTSE US Risk Premium Dividend Yield Short only Pri
+537,Cash flow/Invested Capital short only TR
+538,Forward Dividend Yield Short only TR
+539,Scaled NOA Differential Long only TR
+540,Merrill Lynch MOVE Index 3 Month
+541,Cash flow/Invested Capital Trend long only TR
+542,Merrill Lynch MOVE Index 6 Month
+543,DJ Industrial Suppliers
+544,DJ General Retailers
+545,DJ Gold Mining
+546,DJ Health Care Equipment & Services
+547,DJ Health Care Providers
+548,DJ Heavy Construction
+549,DJ Home Construction
+550,DJ Home Improvement Retailers
+551,DJ Hotel & Lodging REITs
+552,DJ Hotels
+553,DJ Household Goods & Home Construction
+554,DJ Industrial & Office REITs
+555,DJ Industrial Engineering
+556,DJ Industrial Goods & Services
+557,DJ Industrial Machinery
+558,DJ Industrial Metals & Mining
+559,DJ Industrial Transportation
+560,NQ US Small Cap Utilities
+561,Forward Dividend Yield Long only TR
+562,ROE short only TR
+563,S&P Midcap 400 Growth Total Return
+564,S&P 500 Growth Total Return
+565,MSCI United States Broad Gross
+566,S&P 500 Net TR
+567,CEMP US Small Cap 500 Vol Weighted TR
+568,CEMP US Small Cap 500 Vol Weighted
+569,CEMP US Large Cap 500 Vol Weighted TR
+570,CEMP US Large Cap 500 Vol Weighted
+571,CEMP US Equity Hedge Vol Weighted TR
+572,CEMP US Large Cap High Dividend
+573,CEMP US Large Cap High Dividend 100 Vol Weighted
+574,Stoxx USA 50 Risk 5% RV EUR
+575,Stoxx USA 50 Risk 5% RV USD
+576,Stoxx USA 50 Risk 20% RV EUR
+577,Stoxx USA 50 Risk 20% RV USD
+578,S&P Midcap 400 Value Total Return
+579,Price Momentum long only TR
+580,S&P SmallCap 600 Growth Total Return
+581,S&P 400 Total Return
+582,Cash flow/Invested Capital Trend short only TR
+583,Cash flow Yield Long only TR
+584,Extended Price Momentum Long only TR
+585,Size Long only TR
+586,Price Momentum short only TR
+587,Cash flow/Invested Capital long only TR
+588,Scaled NOA Differential short only TR
+589,Dividend Yield Short only TR
+590,NQ US Benchmark Real Estate Holding & Development
+591,Extended Price Momentum Short only TR
+592,Size Short only TR
+593,Forward Earnings Yield Long only TR
+594,Seasonality Long only TR
+595,ROE Long only TR
+596,LadderRite 0-10year USD Corporate Bond
+597,S&P SmallCap 600 Value Total Return
+598,NQ US Benchmark Real Estate Investment & Services
+599,MSCI US Gross
+600,NQ US Benchmark Reinsurance
+601,CBOE Energy Sector Etf Volitlity
+602,CBOE Equity VIX on Amazon
+603,CBOE Equity VIX on Apple
+604,CBOE Equity VIX on Goldman Sachs
+605,CBOE Equity VIX on Google
+606,Sabrient Global Balanced Income
+607,Sabrient Global Balanced Growth
+608,S&P Smallcap 600 Value
+609,S&P SmallCap 600 Pure Value
+610,CBOE Emerging Markets Etf Volitlity
+611,S&P SmallCap 600 Pure Growth
+612,S&P Midcap 400 Value
+613,S&P MidCap 400 Pure Value
+614,S&P MidCap 400 Pure Growth
+615,S&P Midcap 400 Growth
+616,S&P Midcap 400
+617,S&P High Yield Dividend Aristocrats
+618,S&P GSCI Natural Gas ER
+619,S&P GSCI Crude Oil ER
+620,SP GSCI 3Month Forward Capped Sector EW
+621,S&P Smallcap 600 Growth
+622,S&P Goldman Sachs Commodity
+623,CBOE Dyn Short Vix Fut
+624,CBOE Crude Oil Volatility
+625,ARCA Hong Kong Option
+626,ARCA International Market
+627,ARCA Japan
+628,ARCA Major Markets
+629,ARCA Mexico
+630,Total Return Fed Funds Investable
+631,Barron’s 400
+632,Barron’s 400 TR
+633,Gemini Bitcoin
+634,CBOE Dyn Long Vix Fut
+635,Bitcoin Real-Time
+636,SP500 VIX Futures Enhanced Roll TR
+637,SmallCap 2000 NR
+638,CBOE Binary Options S&P 500
+639,CBOE Binary Options Volatility
+640,SGI Smart WTI Long Invest
+641,CBOE Brazil Etf Volatility
+642,CBOE Capped Vix Premium Strateg
+643,CBOE China Etf Volatility
+644,CBOE Citigroup Bxm Pistons Net
+645,Brent Oil x5 Leveraged
+646,S&P Composite 1500
+647,S&P Completion
+648,S&P 600 Small Cap
+649,CBOE NASDAQ 100 Settle
+650,SP 500 CAD Hdg TR
+651,SP 500 Buyback NTR
+652,S&P 1000
+653,Russell Midcap TR
+654,Russell 3000 TR
+655,Russell 1000
+656,Reality Shares Drone PR
+657,Reality Shares Drone NTR
+658,CBOE Ms Strategic Total Return
+659,Reality Shares Drone GTR
+660,PHLX Euro
+661,PHLX Canadian Dollar
+662,PHLX Australian Dollar
+663,Philadelphia Gold/Silver
+664,OTCM ADR TR
+665,NYSE World Leaders Mini Value
+666,NYSE World Leaders
+667,NYSE TOP US 100
+668,NYSE TOP International 100
+669,PHLX Swiss Franc
+670,CBOE Ms 8% Targeted Income Stra
+671,CBOE Morgan Stanley U.S. Strate
+672,CBOE Mid Term Volatility
+673,S&P 600
+674,S&P 500 Vix Short Term Futures ER
+675,S&P 500 Value TR
+676,S&P500 Pure Value
+677,S&P500 Pure Growth
+678,SP 500 Minimum Volatility Net TR
+679,SP 500 Low Volatility TR
+680,S&P500 Equal Weighted
+681,CBOE Equity VIX on Ibm
+682,SP 500 Dividends Aristocrats TR
+683,S&P 500 Daily Hedged EUR Net TR
+684,CBOE Euro Currency Volatility
+685,CBOE Far-Term Vix
+686,CBOE Gold Miners Etf Volatility
+687,CBOE Gold Volatitity
+688,CBOE Jumbo Dj Volatility Ask
+689,CBOE Jumbo Dj Volatility Bid
+690,CBOE Large Cap Over Small Cap S
+691,CBOE Low Volatility
+692,CBOE Market Volatility Spx Bid
+693,CBOE Market Volatility Spx Offe
+694,ARCA Hong Kong 30
+695,ARCA China
+696,US Dollar Index
+697,AMEX TRIN
+698,PHLX Gold Silver Settlement
+699,PHLX Gold Silver TR
+700,PHLX Housing
+701,PHLX Housing Settlement
+702,PHLX Housing TR
+703,PHLX Oil Service
+704,PHLX Semiconductor Settlement
+705,PHLX Semiconductor TR
+706,PHLX Utility
+707,NYSE Technology
+708,PHLX Utility Settlement
+709,S&P 400 Consumer Discretionary
+710,S&P 400 Consumer Staples
+711,S&P 400 Energy
+712,S&P 400 Financials
+713,S&P 400 Health Care
+714,S&P 400 Industrials
+715,S&P 400 Information Technology
+716,S&P 400 Materials
+717,S&P 400 Telecommunication Services
+718,PHLX Utility TR
+719,NYSE Market Composite Technology
+720,NYSE Market Composite Natural Resources
+721,NYSE Market Composite Industrial
+722,NQ OMX Natural Resources
+723,NQ OMX Natural Resources TR
+724,NQ OMX Pollution Mitigation
+725,NQ OMX Pollution Mitigation TR
+726,NQ OMX Recycling
+727,NQ OMX Recycling TR
+728,NQ OMX Renewable Energy Generation
+729,NQ OMX Renewable Energy Generation TR
+730,NQ OMX Smart Grid
+731,NQ OMX Smart Grid TR
+732,NQ OMX Solar
+733,NQ OMX Solar Total Return
+734,NQ OMX US Water
+735,NQ OMX US Water TR
+736,NQ OMX Water
+737,NQ OMX Water TR
+738,NQ OMX Wind
+739,NQ OMX Wind TR
+740,NYSE Arca Gold Miners GTR
+741,NYSE Market Composite Financial
+742,NYSE Market Composite Healthcare
+743,S&P 400 Utilities
+744,NYSE Tick Index
+745,S&P 600 Consumer Discretionary
+746,S&P 600 Energy
+747,S&P Computer Hardware
+748,S&P Health Care Equipment
+749,S&P Health Care Services
+750,S&P Homebuilders
+751,S&P Industrials Composite
+752,S&P Metals & Mining
+753,S&P Oil & Gas Equipment & Services
+754,S&P Oil & Gas Exploration & Production
+755,S&P Pharmaceuticals
+756,Wilder Hill New Energy Global
+757,S&P Retail Select Industry
+758,S&P Telecom Select Industry
+759,S&P Transportation SI
+760,Technology Select Sector NTR
+761,1/100 Dow Jones Industrial Average
+762,Alerian MLP EW
+763,Alerian MLP EW TR
+764,Alerian MLP Infrastructure TR
+765,AMEX Japan
+766,AMEX Mexico
+767,S&P Semiconductors
+768,Wilshire 4500 Completion
+769,Wilshire 5000 Total Market Full Cap
+770,Wisdom Tree Earnings
+771,S&P 600 Financials
+772,S&P 600 Health Care
+773,S&P 600 Industrials
+774,S&P 600 Information Technology
+775,S&P 600 Materials
+776,S&P 600 Telecommunication Services
+777,S&P 600 Utilities
+778,S&P Aerospace & Defense
+779,S&P Biotech Select Industry
+780,S&P Composite 1500 Consumer Discretionary
+781,S&P Composite 1500 Consumer Staples
+782,S&P Composite 1500 Energy
+783,S&P Composite 1500 Financials
+784,S&P Composite 1500 Health Care
+785,S&P Composite 1500 Industrials
+786,S&P Composite 1500 Information Technology
+787,S&P Composite 1500 Materials
+788,S&P Composite 1500 Telecommunication Services
+789,S&P Composite 1500 Utilities
+790,WisdomTree LargeCap Value
+791,Wisdom Tree MidCap earnings
+792,S&P 600 Consumer Staples
+793,NQ OMX Lighting TR
+794,NYSE TRIN
+795,NYSE FANG+TM
+796,NQ Global Market Composite
+797,Nasdaq Factor Dog
+798,Nasdaq Emerging Select Leaders
+799,Nasdaq Dorsey Wright Peoples Portfolio
+800,Nasdaq Developed Select Leaders
+801,NQ Composite TR
+802,NQ Capital Market Composite
+803,Nasdaq BulletShares Investment Grade 7 Year Ladder
+804,Nasdaq BulletShares Investment Grade 7 Year Ladder
+805,NQ Global Select Market Composite
+806,Nasdaq BulletShares Investment Grade 5 Year Ladder
+807,Nasdaq BulletShares Investment Grade 3 Year Ladder
+808,Nasdaq BulletShares Investment Grade 3 Year Ladder
+809,Nasdaq BulletShares High Yield 7 Year Ladder TR
+810,Nasdaq BulletShares High Yield 7 Year Ladder
+811,Nasdaq BulletShares High Yield 5 Year Ladder TR
+812,Nasdaq BulletShares High Yield 5 Year Ladder
+813,Nasdaq BulletShares High Yield 3 Year Ladder TR
+814,Nasdaq BulletShares High Yield 3 Year Ladder
+815,Nasdaq Australia Completion Cap Gross Local Return
+816,Nasdaq BulletShares Investment Grade 5 Year Ladder
+817,Nasdaq 100 TR
+818,Nasdaq International Dividend Achievers Local
+819,NASDAQ Nordea SmartBeta Dividend Sweden PR
+820,Dow Jones U.S. Completion TSM
+821,DJ US
+822,DJ Value
+823,Dynamic Daily Long Exposure to Vol
+824,Dynamic Emarket Intellidex
+825,EFA ETF Vol
+826,Energy Select Sector NTR
+827,FTSE Environmental Opportunities USA
+828,FTSE GWA US
+829,NASDAQ Nordea SmartBeta Dividend Momentum PR
+830,NQ OMX Russia 15
+831,NASDAQ Nordea SmartBeta Volatility Sweden PR
+832,NASDAQ Nordea SmartBeta Momentum Volatility PR
+833,NASDAQ Nordea SmartBeta Momentum Sweden PR
+834,FTSE RAFI US 1000
+835,FTSE RAFI US 1000 Net
+836,FTSE RAFI US 1500 Mid Small
+837,FTSE RAFI US Mid Small 1500
+838,FTSE Shariah USA
+839,NASDAQ Nordea SmartBeta Dividend Volatility PR
+840,Nasdaq North America Air Transportation
+841,NQ 100 Leveraged Notional Net Return
+842,NQ 100 Hedged EUR Net TR
+843,NQ 100 Double Leverage
+844,ISE BICK TR
+845,ISE BICK
+846,Investing.com US 500
+847,US 50
+848,Investing US 30
+849,ICE Crude Oil
+850,Horizon Kinetics ISE Wealth TR
+851,Horizon Kinetics ISE Wealth
+852,Horizon Kinetics ISE International Wealth PR
+853,ISE British Pound FX
+854,HK ISE Global Wealth TR
+855,HK ISE Asia ex Japan Wealth TR
+856,HK ISE Asia ex Japan Wealth Price
+857,HFRX GlbFdIdx
+858,Hashdex Digital Assets
+859,FTSE US 500
+860,FTSE USA
+861,FTSE4Good US 100
+862,FTSE4Good US Benchmark
+863,Gold x5 Leveraged
+864,HK ISE Global Wealth Price
+865,ISE CHIndia
+866,ISE ChIndia TR
+867,ISE ETF 50 Price Return
+868,Mini Nasdaq 100
+869,Kinetics ISE International Wealth TR
+870,KBW Nasdaq Financial Technology NNR 85
+871,KBW Nasdaq Financial Technology NNR 70
+872,Jumbo CBOE Volatility
+873,ISE Water TR
+874,ISE SINdex TR
+875,ISE SINdex
+876,ISE Mobile Payments GTR
+877,ISE Mobile Payments
+878,ISE Junior Silver Small Cap Miners/Explorers TR
+879,ISE HiInc TR
+880,ISE HiInc PR
+881,ISE Global Wind Energy TR
+882,ISE Global Engineerng and Construction
+883,ISE Global Engineering & Construction TR
+884,ISE Exclusively Homebuilders TR
+885,ISE Exclusively Homebuilders
+886,ISE ETF Composite TR
+887,ISE ETF Composite
+888,ISE ETF 50 TR
+889,DJ Top-Cap
+890,DJ Small-Cap Value
+891,DJ Small-Cap Growth
+892,DJ Small-Cap
+893,NQ US Benchmark Life Insurance
+894,NQ US Large Cap
+895,Nasdaq US High Yield Factor
+896,Nasdaq US Growth Factor
+897,NQ US Benchmark
+898,NQ US 450 TR
+899,NQ US 450
+900,NQ US 300 TR
+901,NQ US 300
+902,Nasdaq US Large Cap Equities for Rising Rates
+903,NQ US 1500
+904,Nasdaq Riskalyze US Mid Cap
+905,Nasdaq Riskalyze US Large Cap Select Dividend
+906,Nasdaq Riskalyze US Large Cap
+907,Nasdaq Riskalyze Emerging Markets
+908,Nasdaq Riskalyze Developed Markets
+909,CBOE Oil 1/10 Value
+910,CBOE Reduced-Value
+911,NQ Q-50
+912,CBOE Russell 2000 Buy Write
+913,Nasdaq Riskalyze US Small Cap
+914,NQ US Large Cap TR
+915,Nasdaq US Low Volatility Factor
+916,NQ US Mid Cap
+917,NYSE Composite TR
+918,NYSE Composite Mini Value
+919,NYSE Bitcoin
+920,NASDAQ-100 Target 25 Net Excess Return
+921,NASDAQ-100 Target 25 Excess Return
+922,NASDAQ 100 VIX
+923,NASDAQ-100 Target 25
+924,CBOE Nasdaq100 Buywrite
+925,Nasdaq-100 Notional Net TR
+926,NQ-100 Ex-Tech TR
+927,Nasdaq Victory Multi-Factor US Minimum Volatility
+928,CBOE Near-Term Vix
+929,Nasdaq Victory Dividend Accelerator Dividend Point
+930,Nasdaq Victory Dividend Accelerator
+931,Nasdaq US Value Factor
+932,NQ US Small Cap
+933,CBOE OEX Implied Volatility
+934,Nasdaq US Quality Factor
+935,Nasdaq US Multi-Asset Diversified Income NTR
+936,Nasdaq US Momentum Factor
+937,NQ US Mid Cap TR
+938,CBOE Russell 2000 Volatility
+939,NYSE International 100 Mini
+940,CBOE S&P 500 3 Month Volatility
+941,CBOE S&P 500 Implied Correlation 2014
+942,Cohen & Steers Realty Majors Portfolio
+943,CRSP US Mid Cap TR
+944,CRSP US Small Cap TR
+945,CRSP US Total Market TR
+946,DJIA BuyWrite
+947,DJIA Volatility
+948,DJl Average Net TR
+949,DJ Dividend 100
+950,DJ EW US Corporate Bond
+951,Cohen Steers Global Realty Majors Portfolio
+952,DJ Growth
+953,DJ Large-Cap
+954,DJ Large-Cap Growth
+955,DJ Large-Cap Value
+956,DJ Low-Cap
+957,DJ Mid-Cap
+958,DJ Mid-Cap Growth
+959,DJ Mid-Cap Value
+960,DJ Select Dividend
+961,DJ Select Micro-Cap
+962,DJ High Yield Select 10
+963,FX Yen Volatility
+964,FX Euro Volatility
+965,FX British Pound Volatility
+966,CBOE S&P 500 Implied Correlation 2015
+967,CBOE S&P 500 Putwrite
+968,S&P 500 Short Term Volatility
+969,CBOE S&P500 Buy Write 2% Otm
+970,CBOE S&P500 Dec Volatility
+971,CBOE S&P500 Jun Volatility
+972,CBOE S&P500 Mar Volatility
+973,CBOE S&P500 Sep Volatility
+974,CBOE Silver Etf Volatility
+975,CBOE SKEW
+976,SPX Far Term VXST
+977,SPX Near Term VXST
+978,CBOE Spx Nearterm Expiry Vix
+979,CBOE U.S.-Europe-Japan Basket
+980,CBOE Vix Premium Strategy
+981,CBOE Vix Tail Hedge
+982,CBOE Vix Volatility
+983,CBOE Vxeem Ask
+984,CBOE Vxeem Bid
+985,CBOE/Cbot Corn Volatility
+986,CBOE/Cbot Soybean Volatility
+987,CBOE S&P 500 95-110 Collar
+988,NQ OMX Lighting
+989,AMEX Tick Index
+990,NQ OMX Healthy Living
+991,DJ U.S. Relative Value
+992,DJ U.S. Thematic Long Size
+993,DJ U.S. Thematic Long Quality
+994,DJ U.S. High Momentum
+995,DJ US Low Beta
+996,DJ U.S. Select Regional Banks
+997,DJ US Select Pharmaceuticals
+998,DJ US Select Oil Equipment Services
+999,DJ US Select Oil Exploration Prod
+1000,DJ US Select Medical Equipment
+1001,DJ US Select Investment Services
+1002,DJ US Select Home Construction
+1003,DJ US Select Health Care Providers
+1004,DJ US Select Aerospace Defense
+1005,Mini SPX
+1006,CBOE S&P 500 BuyWrite
+1007,NDXF 4XS
+1008,NDXF 3XS
+1009,NDXF 4XL
+1010,NDXF 3XL
+1011,SPXF 4XS
+1012,SPXF 3XS
+1013,SPXF 4XL
+1014,SPXF 3XL
+1015,DJIAF 4XS
+1016,DJ US Thematic Market Neut Low Beta
+1017,DJIAF 3XS
+1018,DJ US Thematic Market Neut Momentum
+1019,DJ US Thematic Market Neutral Size
+1020,NQ US Broad Dividend Achievers
+1021,DJ Islamic Market US Small-Cap
+1022,DJ Islamic Market US Large-Cap
+1023,DJ Global ex-US Select Real Estate
+1024,DJ US Select Real Estate
+1025,DJ U.S. Target Today
+1026,DJ U.S. Target 2055
+1027,DJ U.S. Target 2050
+1028,DJ U.S. Target 2045
+1029,DJ U.S. Target 2040
+1030,DJ U.S. Target 2035
+1031,DJ U.S. Target 2030
+1032,DJ U.S. Target 2025
+1033,DJ U.S. Target 2020
+1034,DJ U.S. Target 2015
+1035,DJ U.S. Target 2010
+1036,DJ U.S. Target 2005
+1037,DJ Islamic Market US Titans 50
+1038,DJ US Select Equal Weight REIT CAD
+1039,DJ US Select Equal Weight REIT USD
+1040,DJ U.S. Short Relative Value
+1041,DJ U.S. Thematic Short Size
+1042,DJ US Thematic Short Quality
+1043,DJ U.S. Low Momentum
+1044,DJ US High Beta
+1045,DJ US Thematic Market Neut Quality
+1046,DJIAF 4XL
+1047,DJIAF 3XL
+1048,DJ US Mid Cap Total Market
+1049,DJ Equal Weight US Issued Corporate Bond TR
+1050,TR US 10 Year Government Benchmark
+1051,TR US 7 Years Government Benchmark
+1052,TR US 5 Years Government Benchmark
+1053,TR US 30 Years Government Benchmark
+1054,TR US 3 Years Government Benchmark
+1055,TR US 2 Years Government Benchmark
+1056,SGI Double Short 10Y US Treasuries
+1057,CBK FED Funds Effective Rate USD
+1058,Short Treas 7-10T
+1059,MSCI US REIT
+1060,NQ US Benchmark Technology
+1061,NQ US Benchmark Financ Services
+1062,NQ US Benchmark Real Estate
+1063,NQ US Benchmark Insurance
+1064,NQ US Benchmark Banks
+1065,NQ US Benchmark Financials
+1066,NQ US Benchmark Utilities
+1067,NQ US Benchmark Telecommunications
+1068,NQ US Benchmark Retail
+1069,NQ US Benchmark Pharmaceuticals & Biotechnology
+1070,NQ US Benchmark Health Care
+1071,NQ US Benchmark Personal & Household Goods
+1072,NQ US Benchmark Food & Beverage
+1073,NQ US Benchmark Automobiles & Parts
+1074,TR US 50
+1075,MSCI USA
+1076,Russell Midcap NR
+1077,KBW Financial Sector Dividend Yield
+1078,CRSP US Total Market
+1079,NQ OMX Healthy Living TR
+1080,CRSP US Mid Cap
+1081,CRSP US Mega Cap
+1082,CRSP US Large Cap
+1083,MSCI United States Short Gross USD
+1084,MSCI US RE Price USD
+1085,MSCI US Small Net USD
+1086,MSCI US Mid Price USD
+1087,MSCI US Mid Net USD
+1088,MSCI US Large Price USD
+1089,MSCI US Large Net USD
+1090,NQ US Dividend Achievers 50
+1091,MSCI USA Quality NR USD
+1092,MSCI US Leveraged 2x Net EUR
+1093,S&P High Yield Div Aristocrats TR
+1094,S&P 600 TR
+1095,S&P 500 TR
+1096,SP 500 VIX Short Term Futures TRI
+1097,SP 500 VIX Mid Term Futures TRI
+1098,S&P 500 Low Volatility Net TR
+1099,SP 500 EUR Hedged NTR
+1100,MSCI USA Barra Momentum
+1101,MSCI USA Barra Low Volatility
+1102,MSCI USA Barra Low Leverage
+1103,MSCI USA Barra Earnings Yield
+1104,MSCI US Growth Net USD
+1105,NQ US Buyback Achievers
+1106,NQ US Buyback Achievers Select
+1107,NQ US Dividend Achievers Select
+1108,NQ US Benchmark Consumer Services
+1109,NQ US Benchmark Pharmaceuticals
+1110,NQ US Benchmark Biotechnology
+1111,NQ US Benchmark Medical Supplies
+1112,NQ US Benchmark Medical Equipment
+1113,NQ US Benchmark Health Care Providers
+1114,NQ US Benchmark Health Care Equipment & Services
+1115,NQ US Benchmark Tobacco
+1116,NQ US Benchmark Personal Products
+1117,NQ US Benchmark Footwear
+1118,NQ US Benchmark Clothing & Accessories
+1119,NQ US Benchmark Personal Goods
+1120,NQ US Benchmark Toys
+1121,NQ US Benchmark Recreational Products
+1122,NQ US Benchmark Consumer Electronics
+1123,NQ US Benchmark Leisure Goods
+1124,NQ US Benchmark Furnishings
+1125,NQ US Benchmark Nondurable Household Products
+1126,NQ US Benchmark Durable Household Products
+1127,NQ US Benchmark Food Products
+1128,NQ US Benchmark Farming & Fishing
+1129,NQ US Benchmark Food Producers
+1130,NQ US Benchmark Soft Drinks
+1131,NQ US Benchmark Distillers & Vintners
+1132,NQ US Benchmark Beverages
+1133,NQ US Benchmark Food & Drug Retailers
+1134,NQ US Benchmark Drug Retailers
+1135,NQ US Benchmark Food Retailers & Wholesalers
+1136,NQ US Benchmark General Retailers
+1137,NQ US Benchmark Property & Casualty Insurance
+1138,NQ US Benchmark Full Line Insurance
+1139,NQ US Benchmark Nonlife Insurance
+1140,NQ US Benchmark Water
+1141,NQ US Benchmark Multiutilities
+1142,"NQ US Benchmark Gas, Water & Multiutilities"
+1143,NQ US Benchmark Conventional Electricity
+1144,NQ US Benchmark Electricity
+1145,NQ US Benchmark Mobile Telecommunications
+1146,NQ US Benchmark Fixed Line Telecommunications
+1147,NQ US Benchmark Travel & Tourism
+1148,NQ US Benchmark Restaurants & Bars
+1149,NQ US Benchmark Auto Parts
+1150,NQ US Benchmark Recreational Services
+1151,NQ US Benchmark Gambling
+1152,NQ US Benchmark Airlines
+1153,NQ US Benchmark Travel & Leisure
+1154,NQ US Benchmark Publishing
+1155,NQ US Benchmark Media Agencies
+1156,NQ US Benchmark Broadcasting & Entertainment
+1157,NQ US Benchmark Media
+1158,NQ US Benchmark Specialty Retailers
+1159,NQ US Benchmark Specialized Consumer Services
+1160,NQ US Benchmark Home Improvement Retailers
+1161,NQ US Benchmark Broadline Retailers
+1162,NQ US Benchmark Apparel Retailers
+1163,NQ US Benchmark Hotels
+1164,NQ US Benchmark Transportation Services
+1165,NQ US Benchmark Consumer Goods
+1166,NQ US Benchmark Industrial Suppliers
+1167,NQ US Benchmark Forestry & Paper
+1168,NQ US Benchmark Basic Resources
+1169,NQ US Benchmark Specialty Chemicals
+1170,NQ US Benchmark Commodity Chemicals
+1171,NQ US Benchmark Renewable Energy Equipment
+1172,NQ US Benchmark Alternative Energy
+1173,NQ US Benchmark Pipelines
+1174,NQ US Benchmark Oil Equipment & Services
+1175,NQ US Benchmark Integrated Oil & Gas
+1176,NQ US Benchmark Exploration & Production
+1177,NQ US Benchmark Oil & Gas Producers
+1178,NQ Chaikin Power US Large Cap
+1179,NQ US Preferred Security
+1180,NQ US Multi-Asset Diversified Income
+1181,NQ AlphaDEX US Total Market
+1182,NQ US Rising Dividend Achievers
+1183,NQ Chaikin Power US Dividend Achievers
+1184,NQ 100 Ex Tech Sector
+1185,NQ 100 Technology Sector
+1186,NQ 100 3x Inverse
+1187,NQ 100 3x Leveraged
+1188,NQ 100 Currency Hedged EUR
+1189,NQ 100 Equal Weighted
+1190,NQ 100 Currency Hedged CAD
+1191,NQ OMX Green Economy US
+1192,NQ US Benchmark Paper
+1193,NQ US Benchmark Industrial Metals & Mining
+1194,NQ US Benchmark Nonferrous Metals
+1195,NQ US Benchmark Coal
+1196,NQ US Benchmark Financial Administration
+1197,NQ US Benchmark Business Training & Emp Agencies
+1198,NQ US Benchmark Business Support Services
+1199,NQ US Benchmark Support Services
+1200,NQ US Benchmark Trucking
+1201,NQ US Benchmark Railroads
+1202,NQ US Benchmark Marine Transportation
+1203,NQ US Benchmark Delivery Services
+1204,NQ US Benchmark Industrial Transportation
+1205,NQ US Benchmark Industrial Machinery
+1206,NQ US Benchmark Commercial Vehicles & Trucks
+1207,NQ US Benchmark Industrial Engineering
+1208,NQ US Benchmark Waste & Disposal Services
+1209,NQ US Benchmark Electronic Equipment
+1210,NQ US Benchmark Electronic & Electrical Equipment
+1211,NQ US Benchmark Diversified Industrials
+1212,NQ US Benchmark Containers & Packaging
+1213,NQ US Benchmark General Industrials
+1214,NQ US Benchmark Defense
+1215,NQ US Benchmark Aerospace
+1216,NQ US Benchmark Industrial G&S
+1217,NQ US Benchmark Building Materials & Fixtures
+1218,NQ US Benchmark Construction & Materials
+1219,NQ US Benchmark Industrials
+1220,NQ US Benchmark Gold Mining
+1221,NQ US Benchmark General Mining
+1222,NQ US Benchmark Electrical Components & Equipment
+1223,NQ US Benchmark Aerospace & Defense
+1224,CRSP US Small Cap
+1225,ISE Cyber Security UCITS
+1226,DJ Pharmaceuticals
+1227,NQ OMX Clean Energy Europe
+1228,NQ OMX Clean Energy Asia TR
+1229,NQ OMX Clean Energy Asia
+1230,NQ OMX Clean Edge Smart Grid Infrastructure
+1231,NQ OMX China Technology
+1232,NQ Dividend Achievers TR
+1233,NQ OMX CEA Smartphone TR
+1234,DJ Personal Products
+1235,NQ OMX CEA Smartphone
+1236,NQ OMX Bio/Clean Fuels
+1237,NQ OMX Advanced Materials TR
+1238,NQ OMX Advanced Materials
+1239,DJ Pharmaceuticals & Biotechnology
+1240,DJ Pipelines
+1241,DJ Precious Metals
+1242,DJ Property & Casualty Insurance
+1243,DJ Publishing
+1244,NQ OMX Bio/Clean Fuels TR
+1245,DJ Railroads
+1246,DJ Personal Goods
+1247,DJ Paper
+1248,DJ Media Agencies
+1249,DJ Medical Equipment
+1250,DJ Medical Supplies
+1251,DJ Mining
+1252,DJ Mobile Telecom
+1253,DJ Mortgage Finance
+1254,DJ Mortgage
+1255,NQ OMX Clean Energy US
+1256,DJ Personal & Household Goods
+1257,NQ Dividend Achievers
+1258,NQ OMX Clean Energy Focused
+1259,NQ OMX Clean Energy Europe TR
+1260,DJ Multiutilities
+1261,DJ Nonferrous Metals
+1262,DJ Nonlife Insurance
+1263,DJ Oil & Gas Producers
+1264,DJ Oil Equipment & Services
+1265,DJ Oil Equipment Services & Distribution
+1266,DJ Travel & Tourism
+1267,DJ RE
+1268,DJ Real Estate Holding & Development
+1269,DJ Real Estate Investment & Services
+1270,DJ Software
+1271,DJ Fixed Line Telecom
+1272,DJ Electronic Office Equipment
+1273,DJ Water
+1274,DJ Waste & Disposal Services
+1275,DJ Software & Computer Services
+1276,DJ Specialized Consumer Services
+1277,DJ Specialty Chemicals
+1278,DJ Soft Drinks
+1279,DJ Specialty Finance
+1280,DJ Specialty Retailers
+1281,DJ Support Services
+1282,DJ Technology Hardware & Equipment
+1283,DJ Tires
+1284,DJ Tobacco
+1285,DJ Toys
+1286,DJ Transportation Services
+1287,DJ Travel & Leisure
+1288,DJ Specialty REITs
+1289,DJ Semiconductors
+1290,DJ Select REIT
+1291,DJ Retailers
+1292,DJ RE Services
+1293,ISE Cyber Security NTR
+1294,DJ Recreational Products
+1295,DJ Recreational Services
+1296,DJ Reinsurance
+1297,DJ Residential
+1298,ISE Cloud Computing TR
+1299,ISE Cloud Computing
+1300,FTSE RAFI US 100 Real Estate
+1301,FTSE EPRA/NAREIT USA
+1302,EEFund Video Game Tech PR
+1303,NQ Internet TR
+1304,EEFund Video Game Tech NTR
+1305,DJ Restaurants & Bars
+1306,EEFund Video Game Tech  GTR
+1307,DJ Telecom Equipment
+1308,DJ RE Investment Trusts
+1309,DJ Nondurable Household
+1310,DJ Retail REITs
+1311,NQ OMX Clean Energy US TR
+1312,DJ Media
+1313,NQ OMX Clean Energy Focused TR
+1314,DJ Trucking
+1315,NQ US Benchmark Iron & Steel
+1316,NQ OMX Energy Efficiency TR
+1317,NQ OMX Energy Management
+1318,NQ US Benchmark Chemicals
+1319,MSCI US Net EUR
+1320,NQ US Benchmark Basic Materials
+1321,NQ OMX Energy Management TR
+1322,NQ OMX Energy Storage
+1323,NQ OMX Energy Storage TR
+1324,NQ US Benchmark Oil & Gas
+1325,MSCI US Net USD
+1326,NQ OMX Green Economy Asia TR USD
+1327,NQ OMX Green Economy
+1328,NQ OMX Energy Efficiency
+1329,NQ OMX Green Building TR
+1330,NQ OMX Global Water TR
+1331,NQ OMX Global Water
+1332,NQ OMX Global Gold & Precious Metals
+1333,NQ OMX Global Agriculture TR
+1334,NQ OMX Global Agriculture Notional Net TR
+1335,NQ OMX Global Agriculture
+1336,DJ U.S. Select Insurance
+1337,NQ Clean Edge Green Energy
+1338,NQ OMX Geothermal TR
+1339,NQ OMX Geothermal
+1340,NQ OMX Fuel Cell
+1341,NQ OMX Fuel Cell TR
+1342,NQ US Technology Dividend
+1343,NQ OMX Green Building
+1344,DJ US Select Telecom
+1345,NQ OMX Developer/Operator TR
+1346,DJ Insurance
+1347,ISE Cyber Security UCITS TR
+1348,NQ OMX Green Transportation TR
+1349,ISE Junior Silver Small Cap Miners/Explorers
+1350,KBW Nasdaq Financial Technology
+1351,ISE Cyber Security UCITS Net TR
+1352,MS HI-Tech 35 Settlement Value
+1353,DJ Marine Transportation
+1354,NQ OMX Green Transportation
+1355,NQ OMX Green IT TR
+1356,DJ Life Insurance
+1357,NQ OMX Green IT
+1358,DJ Leisure Goods
+1359,NQ OMX Green Economy TR
+1360,NQ 100 Technology TR
+1361,NQ US Benchmark Mining
+1362,NQ OMX Green Economy ex-US USD
+1363,NQ OMX Green Economy Europe USD
+1364,NQ OMX Green Economy Europe TR USD
+1365,NQ OMX Green Economy Asia USD
+1366,NQ OMX Developer/Operator
+1367,DJ Large-Cap Technology
+1368,DJ Iron & Steel
+1369,DJ Investment Services
+1370,DJ Internet Services
+1371,DJ Internet Composite
+1372,DJ Internet Commerce
+1373,DJ Internet
+1374,DJ Integrated Oil & Gas
+1375,DJ Insurance Brokers
+1376,NQ OMX Green Economy ex-US TR USD
+1377,DJ Global ex-U.S. Select REIT

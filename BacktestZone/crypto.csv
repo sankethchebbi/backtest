@@ -1,0 +1,1038 @@
+,name
+0,Bitcoin
+1,Ethereum
+2,Binance Coin
+3,Tether
+4,Cardano
+5,Polkadot
+6,XRP
+7,Uniswap
+8,Litecoin
+9,Chainlink
+10,THETA
+11,USD Coin
+12,Bitcoin Cash
+13,Stellar
+14,Terra
+15,Wrapped Bitcoin
+16,Dogecoin
+17,VeChain
+18,Crypto.com Coin
+19,Filecoin
+20,Aave
+21,TRON
+22,IOTA
+23,Cosmos
+24,Solana
+25,EOS
+26,Avalanche
+27,Monero
+28,Bitcoin SV
+29,Kusama
+30,FTX Token
+31,Tezos
+32,NEM
+33,BitTorrent
+34,Algorand
+35,Neo
+36,Chiliz
+37,Dai
+38,Huobi Token
+39,Hedera Hashgraph
+40,Elrond
+41,SushiSwap
+42,Synthetix
+43,Dash
+44,Theta Fuel
+45,UNUS SED LEO
+46,The Graph
+47,Decred
+48,Maker
+49,Zilliqa
+50,Compound
+51,Polygon
+52,NEAR Protocol
+53,Enjin Coin
+54,Ravencoin
+55,Basic Attention Token
+56,Pundi X
+57,Zcash
+58,PancakeSwap
+59,Harmony
+60,Decentraland
+61,Nexo
+62,UMA
+63,Ethereum Classic
+64,Bancor
+65,SwissBorg
+66,THORChain
+67,yearn.finance
+68,Holo
+69,Reserve Rights
+70,ICON
+71,Celsius
+72,0x
+73,Waves
+74,Fantom
+75,Ren
+76,Siacoin
+77,Revain
+78,Voyager Token
+79,Ontology
+80,DigiByte
+81,Dent
+82,OKB
+83,IOST
+84,OMG Network
+85,Paxos Standard
+86,Celo
+87,1inch
+88,Nano
+89,Nano
+90,Qtum
+91,Loopring
+92,Ocean Protocol
+93,Curve DAO Token
+94,Kyber Network
+95,Horizen
+96,MVL
+97,Bitcoin Gold
+98,Lisk
+99,Verge
+100,Fetch.ai
+101,Energy Web Token
+102,Quant
+103,Ankr
+104,Golem
+105,Bitpanda Ecosystem Token
+106,Electroneum
+107,Celer Network
+108,StormX
+109,Augur
+110,Mixin
+111,IoTeX
+112,Venus
+113,FunFair
+114,Status
+115,WAX
+116,Telcoin
+117,Kin
+118,COTI
+119,Stacks
+120,Kava.io
+121,Polymath
+122,Swipe
+123,MaidSafeCoin
+124,Civic
+125,TrueUSD
+126,Band Protocol
+127,Ardor
+128,Steem
+129,Orchid
+130,Aragon
+131,QuarkChain
+132,OriginTrail
+133,Utrust
+134,Serum
+135,MediBloc
+136,Hifi Finance
+137,Storj
+138,Origin Protocol
+139,BitShares
+140,Numeraire
+141,Komodo
+142,Bitcoin Diamond
+143,Ampleforth
+144,SingularityNET
+145,Gnosis
+146,Stratis
+147,Ark
+148,TomoChain
+149,IRISnet
+150,PAC Global
+151,Wanchain
+152,ABBC Coin
+153,district0x
+154,aelf
+155,Syscoin
+156,ZB Token
+157,CyberVein
+158,iExec RLC
+159,Loom Network
+160,Haven Protocol
+161,Power Ledger
+162,Unibright
+163,Hellenic Coin
+164,Populous
+165,Bytom
+166,AdEx Network
+167,Divi
+168,Centrality
+169,Request
+170,EFFORCE
+171,ReddCoin
+172,Aion
+173,Gas
+174,Elastos
+175,LBRY Credits
+176,Energi
+177,Streamr
+178,MonaCoin
+179,WazirX
+180,Gemini Dollar
+181,Metal
+182,Refereum
+183,Selfkey
+184,SOLVE
+185,Ignis
+186,Zenon
+187,Nimiq
+188,Waltonchain
+189,NKN
+190,DREP
+191,Beam
+192,Bytecoin
+193,Bluzelle
+194,Cartesi
+195,Sentinel Protocol
+196,Nexus
+197,KuCoin Shares
+198,Firo
+199,ARPA Chain
+200,AirSwap
+201,Endor Protocol
+202,NULS
+203,Function X
+204,WaykiChain
+205,PIVX
+206,RChain
+207,Constellation
+208,Switcheo
+209,Phoenix Global
+210,Dragonchain
+211,pNetwork
+212,Fusion
+213,Groestlcoin
+214,Quantstamp
+215,Cindicator
+216,FIO Protocol
+217,Cortex
+218,Ripio Credit Network
+219,Cocos-BCX
+220,Sport and Leisure
+221,Measurable Data Token
+222,Einsteinium
+223,v.systems
+224,Aeternity
+225,GameCredits
+226,Aurora
+227,Zap
+228,GXChain
+229,VITE
+230,Enzyme Finance
+231,LockTrip
+232,Lympo
+233,STASIS EURO
+234,Dock
+235,Kleros
+236,Nebulas
+237,GoChain
+238,MCO
+239,Navcoin
+240,Propy
+241,Skycoin
+242,CasinoCoin
+243,Dentacoin
+244,HyperCash
+245,BTU Protocol
+246,DMarket
+247,Mithril
+248,Nxt
+249,Phantasma
+250,LATOKEN
+251,0Chain
+252,Steem Dollars
+253,Wirex Token
+254,Flexacoin
+255,Sentivate
+256,All Sports
+257,Neblio
+258,Apollo Currency
+259,Crypterium
+260,Grin
+261,Project Pai
+262,Presearch
+263,Vertcoin
+264,Wabi
+265,Veritaseum
+266,Nucleus Vision
+267,Ambrosus
+268,TenX
+269,Raiden Network Token
+270,TokenClub
+271,BnkToTheFuture
+272,Bankera
+273,DigixDAO
+274,Dovu
+275,#MetaHash
+276,TE-FOOD
+277,Gifto
+278,PCHAIN
+279,Circuits of Value
+280,Credits
+281,AppCoins
+282,Bread
+283,QASH
+284,Metronome
+285,Genesis Vision
+286,OAX
+287,DeepBrain Chain
+288,Loki
+289,High Performance Blockchain
+290,BABB
+291,Dero
+292,POA
+293,SIRIN LABS Token
+294,Digitex Futures
+295,QLC Chain
+296,LGO Token
+297,WePower
+298,Blox
+299,PumaPay
+300,Obyte
+301,Dynamic
+302,XYO
+303,Blocknet
+304,Buggyra Coin Zero
+305,Namecoin
+306,Moeda Loyalty Points
+307,Matrix AI Network
+308,SALT
+309,Quantum Resistant Ledger
+310,Cardstack
+311,CyberMiles
+312,TrueChain
+313,Egretia
+314,Metaverse ETP
+315,Factom
+316,Maximine Coin
+317,Hydro Protocol
+318,Viacoin
+319,Everex
+320,YOYOW
+321,Viberate
+322,Tachyon Protocol
+323,Agrello
+324,MediShares
+325,Ruff
+326,FLO
+327,ProximaX
+328,Monetha
+329,Achain
+330,SONM
+331,SingularDTV
+332,DigitalNote
+333,Arcblock
+334,PRIZM
+335,Ubiq
+336,PressOne
+337,BLOCKv
+338,B2BX
+339,DATA
+340,Peercoin
+341,IQeon
+342,Banano
+343,THEKEY
+344,eBoost
+345,Santiment Network Token
+346,ROOBEE
+347,Phore
+348,Genaro Network
+349,SmartMesh
+350,Essentia
+351,PlatonCoin
+352,Callisto Network
+353,OneLedger
+354,Internxt
+355,Bibox Token
+356,Restart Energy MWAT
+357,Stealthcoin
+358,IoT Chain
+359,Seele-N
+360,SwftCoin
+361,Monolith
+362,Peculium
+363,Odyssey
+364,Time New Bank
+365,DAOstack
+366,Pillar
+367,Covesting
+368,carVertical
+369,Qubitica
+370,SmartCash
+371,Burst
+372,Spectre.ai Dividend Token
+373,Tokenomy
+374,SpaceChain
+375,UCA Coin
+376,Particl
+377,Mobius
+378,Wings
+379,Content Neutrality Network
+380,eBitcoin
+381,Feathercoin
+382,Aeon
+383,Lightning Bitcoin
+384,VIBE
+385,Opacity
+386,CPChain
+387,PotCoin
+388,Lamden
+389,Mysterium
+390,Gulden
+391,Skrumble Network
+392,Credo
+393,DOC.COM
+394,ERC20
+395,EDUCare
+396,Game.com
+397,Remme
+398,SunContract
+399,Cred
+400,INT
+401,Myriad
+402,I/O Coin
+403,ContentBox
+404,LiteDoge
+405,Ivy
+406,Cappasity
+407,Litecoin Cash
+408,Swarm
+409,DEX
+410,AXPR
+411,Datum
+412,Investcoin
+413,Vexanium
+414,CryptoPing
+415,DECOIN
+416,Crown
+417,Acute Angle Cloud
+418,ChatCoin
+419,BitGreen
+420,YEE
+421,Omni
+422,BlackCoin
+423,ToaCoin
+424,EXRNchain
+425,KickToken
+426,Gridcoin
+427,QunQun
+428,OKCash
+429,CannabisCoin
+430,DAEX
+431,DMM: Governance
+432,Cube
+433,Add.xyz
+434,Substratum
+435,Pinkcoin
+436,Alphacat
+437,CoTrader
+438,BitCapitalVendor
+439,DeepOnion
+440,Novacoin
+441,Primecoin
+442,OneRoot Network
+443,Energo
+444,Medicalchain
+445,Rialto
+446,Tierion
+447,VeriCoin
+448,BitcoinZ
+449,Enigma
+450,MyWish
+451,Blackmoon
+452,Patientory
+453,Breezecoin
+454,LuckChain
+455,Quark
+456,Pascal
+457,Plair
+458,Curecoin
+459,MobileGo
+460,Denarius
+461,Dimecoin
+462,IHT Real Estate Protocol
+463,CommerceBlock
+464,NuBits
+465,Expanse
+466,Eternity
+467,AI Doctor
+468,HempCoin
+469,HiCoin
+470,CEEK VR
+471,ZClassic
+472,TransferCoin
+473,LUXCoin
+474,Rise
+475,Asch
+476,PayPie
+477,DAPS Coin
+478,Giga Watt Token
+479,Bean Cash
+480,Primas
+481,Bismuth
+482,LNX Protocol
+483,MonetaryUnit
+484,Sharder
+485,Waves Community Token
+486,Zero
+487,Bitcoin Private
+488,eosDAC
+489,Aventus
+490,TrueFlip
+491,ATLANT
+492,FujiCoin
+493,BitBoost
+494,Banca
+495,Renewable Electronic Energy Coin
+496,Xaurum
+497,Hedge
+498,CoinFi
+499,0xBitcoin
+500,CloakCoin
+501,XTRABYTES
+502,EDC Blockchain
+503,TrezarCoin
+504,Capricoin+
+505,TraDove B2BCoin
+506,Humaniq
+507,Bottos
+508,Maecenas
+509,Mercury
+510,Lunyr
+511,Megacoin
+512,GeoCoin
+513,FNKOS
+514,Adshares
+515,REAL
+516,Ixcoin
+517,ZrCoin
+518,Carboncoin
+519,The ChampCoin
+520,GPU Coin
+521,Dragon Coins
+522,GlobalBoost-Y
+523,Etherparty
+524,Bitcoin Plus
+525,Pakcoin
+526,DomRaider
+527,Trollcoin
+528,Freicoin
+529,Pandacoin
+530,adToken
+531,Boolberry
+532,Flixxo
+533,DECENT
+534,Brickblock
+535,Playkey
+536,Cosmo Coin
+537,LanaCoin
+538,IXT
+539,Bitcoin Atom
+540,ShipChain
+541,EuropeCoin
+542,Stox
+543,Bounty0x
+544,Scry.info
+545,TokenPay
+546,Neurotoken
+547,DDKoin
+548,SIBCoin
+549,FuzeX
+550,DubaiCoin
+551,Electrify.Asia
+552,HitCoin
+553,Bezant
+554,Delphy
+555,ExclusiveCoin
+556,Orbitcoin
+557,Ink
+558,Indorse Token
+559,Ormeus Coin
+560,Shorty
+561,Edgeless
+562,Zeusshield
+563,Winco
+564,Hiveterminal Token
+565,Hexx
+566,Blockmason Credit Protocol
+567,Colossuscoin V2
+568,Chronobank
+569,Trinity Network Credit
+570,BitDegree
+571,Bezop
+572,Rentberry
+573,EventChain
+574,MetalCoin
+575,Hacken
+576,Ecobit
+577,FlypMe
+578,Lendingblock
+579,Bullion
+580,Friendz
+581,Sakura Bloom
+582,GoldMint
+583,Blue Protocol
+584,MEXC Token
+585,ATMChain
+586,Internet of People
+587,Po.et
+588,BZEdge
+589,X8X Token
+590,HelloGold
+591,HeroNode
+592,Pesetacoin
+593,Zennies
+594,Ryo Currency
+595,AudioCoin
+596,Merebel
+597,Blocktix
+598,Primalbase Token
+599,MintMe.com Coin
+600,Scorum Coins
+601,ChessCoin
+602,Dropil
+603,MyBit
+604,Deutsche eMark
+605,Maxcoin
+606,CoinJanitor
+607,BUZZCoin
+608,Ethereum Meta
+609,DreamTeam Token
+610,Zeepin
+611,Qbao
+612,Innova
+613,Shadow Token
+614,GoNetwork
+615,ShadowCash
+616,Neutron
+617,Startcoin
+618,Synergy
+619,Opus
+620,SwagBucks
+621,Streamity
+622,Cryptonite
+623,Swap
+624,Fortuna
+625,SHIELD
+626,GoByte
+627,Netko
+628,InsaneCoin
+629,EncryptoTel [WAVES]
+630,Swing
+631,Digitalcoin
+632,WayGuide
+633,Energycoin
+634,NANJCOIN
+635,ION
+636,Swarm City
+637,Bitstar
+638,Graft
+639,Starbase
+640,OracleChain
+641,Terracoin
+642,BlueCoin
+643,InvestFeed
+644,Aston
+645,Aeron
+646,Ellaism
+647,BitTokens
+648,iEthereum
+649,CryptoCarbon
+650,2GIVE
+651,Happycoin
+652,Silverway
+653,SafeInsure
+654,GCN Coin
+655,WMCoin
+656,Quantis Network
+657,SproutsExtreme
+658,DopeCoin
+659,Aigang
+660,IslaCoin
+661,Hackspace Capital
+662,Jetcoin
+663,Kobocoin
+664,Silent Notary
+665,MicroMoney
+666,TagCoin
+667,Coin Lion
+668,Pirl
+669,Chronologic
+670,Cobinhood
+671,Tattoocoin (Standard Edition)
+672,Cryptojacks
+673,Photon
+674,Motocoin
+675,SRCOIN
+676,Ties.DB
+677,Leadcoin
+678,Nicash
+679,Opal
+680,ParallelCoin
+681,Bitcurrency
+682,AquariusCoin
+683,FoldingCoin
+684,SkinCoin
+685,Mao Zedong
+686,REOSC
+687,imbrex
+688,GINcoin
+689,Bitcloud
+690,Magi
+691,OptiToken
+692,Emerald Crypto
+693,Guncoin
+694,Storiqa
+695,Proton Token
+696,Dynamite
+697,DraftCoin
+698,Elacoin
+699,KekCoin
+700,Bitz
+701,SuperCoin
+702,vSlice
+703,PosEx
+704,PoSW Coin
+705,EvenCoin
+706,Adzcoin
+707,BitBar
+708,Truegame
+709,Evil Coin
+710,Crowd Machine
+711,Verify
+712,Worldcore
+713,Nasdacoin
+714,Monkey Project
+715,Bata
+716,KushCoin
+717,Yacoin
+718,PopularCoin
+719,OctoCoin
+720,VULCANO
+721,TEAM (TokenStars)
+722,Sling
+723,Firecoin
+724,Crave
+725,BitWhite
+726,Litecoin Plus
+727,MojoCoin
+728,Rimbit
+729,Mineum
+730,Joulecoin
+731,BlockCAT
+732,Zetacoin
+733,Bitcoin Zero
+734,Franko
+735,Bitcoin Interest
+736,Bolivarcoin
+737,Bela
+738,GameBet Coin
+739,Ultimate Secure Cash
+740,Rubies
+741,FirstCoin
+742,Eroscoin
+743,Kurrent
+744,Ratecoin
+745,Unitus
+746,Xios
+747,Prime-Ex Perpetual
+748,PX
+749,SteepCoin
+750,BillaryCoin
+751,Universe
+752,Unify
+753,GuccioneCoin
+754,Privatix
+755,Bitcoin Red
+756,Mchain
+757,Coin2.1
+758,Bitzeny
+759,Rupee
+760,BeaverCoin
+761,BERNcash
+762,Spots
+763,Niobio Cash
+764,iTicoin
+765,WARP
+766,Universal Currency
+767,LiteBar
+768,ATBCoin
+769,PureVidz
+770,GlobalToken
+771,Syndicate
+772,SmartCoin
+773,ELTCOIN
+774,Paragon
+775,Miners' Reward Token
+776,GoldBlocks
+777,Suretly
+778,Onix
+779,ICOBID
+780,Global Currency Reserve
+781,Ethereum Cash
+782,Digital Money Bits
+783,Blakecoin
+784,Acoin
+785,GlobalCoin
+786,Theresa May Coin
+787,TrumpCoin
+788,Bitradio
+789,Shilling
+790,PostCoin
+791,Metal Music Coin
+792,TEKcoin
+793,Cream
+794,VIP Tokens
+795,Zurcoin
+796,Uro
+797,Atonomi
+798,FuzzBalls
+799,Regalcoin
+800,Wild Crypto
+801,Debitcoin
+802,MindCoin
+803,Dreamcoin
+804,Centurion
+805,Moin
+806,CryCash
+807,Unrealcoin
+808,XGOX
+809,Signatum
+810,iBTC
+811,EDRCoin
+812,Beatcoin
+813,GeyserCoin
+814,Sativacoin
+815,TOKYO
+816,Influxcoin
+817,Ride My Car
+818,Orlycoin
+819,PayCoin
+820,Save and Gain
+821,Jewels
+822,Braincoin
+823,LetItRide
+824,ParkByte
+825,GoldPieces
+826,MustangCoin
+827,AmsterdamCoin
+828,PayCon
+829,PRiVCY
+830,X-Coin
+831,BitRent
+832,Matchpool
+833,RonPaulCoin
+834,MarteXcoin
+835,Elementrem
+836,PIECoin
+837,DNotes
+838,ARBITRAGE
+839,SpreadCoin
+840,Zonecoin
+841,BowsCoin
+842,Californium
+843,ARbit
+844,Thore Cash
+845,OsmiumCoin
+846,JobsCoin
+847,Bitcoin 21
+848,Desire
+849,Visio
+850,SydPak
+851,Xonecoin
+852,Zayedcoin
+853,ImpulseCoin
+854,BROTHER
+855,CrevaCoin
+856,Rupaya
+857,Quebecoin
+858,HOdlcoin
+859,SongCoin
+860,Titcoin
+861,Destiny
+862,Taler Coin
+863,Litecred
+864,EquiTrader
+865,Dollarcoin
+866,BitCoal
+867,SpeedCash
+868,Eurocoin
+869,Open Trading Network
+870,Cannation
+871,Prime-XI
+872,MiloCoin
+873,LiteBitcoin
+874,Cabbage
+875,TajCoin
+876,RSGPcoin
+877,Veltor
+878,NevaCoin
+879,Luna Coin
+880,VectorAI
+881,JavaScript Token
+882,High Voltage
+883,Bulleon
+884,LiteCoin Ultra
+885,Project-X
+886,PLNcoin
+887,Bitvolt
+888,Independent Money System
+889,PlatinumBAR
+890,BenjiRolls
+891,Paypex
+892,Dalecoin
+893,BriaCoin
+894,WomenCoin
+895,Dash Green
+896,Wild Beast Block
+897,Peerguess
+898,EcoCoin
+899,Crystal Clear 
+900,Comet
+901,SONO
+902,NodeCoin
+903,iBank
+904,Coinonat
+905,SocialCoin
+906,Fintab
+907,RouletteToken
+908,Ccore
+909,Iconic
+910,Experience Points
+911,VapersCoin
+912,PonziCoin
+913,Argus
+914,Concoin
+915,ArtByte
+916,Helpico
+917,HarmonyCoin
+918,X2
+919,CRYPTO20
+920,RON
+921,Aces
+922,ALQO
+923,BUMO
+924,DEEX
+925,FOIN
+926,Kala
+927,LIZA
+928,MOAC
+929,NAGA
+930,ODEM
+931,Veggie
+932,WiBX
+933,Axiom
+934,Clams
+935,Dashs
+936,Fidyo
+937,Flash
+938,Hydro
+939,Lykke
+940,MMXVI
+941,SaluS
+942,Tesra
+943,BioBar
+944,Bubble
+945,Change
+946,ECC
+947,Francs
+948,Maggie
+949,Nectar
+950,netBit
+951,Sphere
+952,Wagerr
+953,XDE II
+954,BitCore
+955,BMChain
+956,BTCMoon
+957,Electra
+958,LKRCoin
+959,Moneta
+960,Neumark
+961,Omicron
+962,Sexcoin
+963,United Traders Token
+964,Bastonet
+965,BitTube
+966,BitcoinX
+967,BlockCDN
+968,ClubCoin
+969,DarkLisk
+970,Etheroll
+971,Fazzcoin
+972,MarxCoin
+973,PeepCoin
+974,Polybius
+975,Quotient
+976,RubleBit
+977,Rubycoin
+978,SegWit2x
+979,TopChain
+980,Universa
+981,Voyacoin
+982,Zeitcoin
+983,AgaveCoin
+984,BNS Token
+985,CanYaCoin
+986,COMSA [ETH]
+987,EncrypGen
+988,KashhCoin
+989,Lambo Coin
+990,RoyalCoin
+991,ShellCoin
+992,SwapToken
+993,ThoreNext
+994,Auroracoin
+995,Authorship
+996,AvatarCoin
+997,BlazerCoin
+998,BlockStamp
+999,ColossusXT
+1000,FirstBlood
+1001,Flash Token
+1002,Fonziecoin
+1003,FuturoCoin
+1004,PrismChain
+1005,RabbitCoin
+1006,SpankChain
+1007,SportsCoin
+1008,TrickyCoin
+1009,Bitcoin God
+1010,CoinEx Token
+1011,Dinastycoin
+1012,NewYorkCoin
+1013,NoLimitCoin
+1014,V-Dimension
+1015,Counterparty
+1016,Cycling Coin
+1017,DeltaCredits
+1018,Bitcoin Vault
+1019,Ethereum Lite
+1020,InflationCoin
+1021,InvisibleCoin
+1022,Super Bitcoin
+1023,CryptoBossCoin
+1024,Ethereum eRush
+1025,EurocoinToken
+1026,Exchange Union
+1027,FrankyWillCoin
+1028,GameLeagueCoin
+1029,Halloween Coin
+1030,Jibrel Network
+1031,ThoreCashTRX
+1032,United Bitcoin
+1033,CryptoWorldX Token
+1034,Cryptoindex.com 100
+1035,Digital Bullion Gold
+1036,Advanced Internet Blocks
